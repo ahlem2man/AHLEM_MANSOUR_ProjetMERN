@@ -1,5 +1,5 @@
-# AHLEM_MANSOUR_ProjetMERN
-# Projet MERN - Gestion de Projets Collaboratifs
+
+# AHLEM_MANSOUR_ProjetMERN - Gestion de Projets Collaboratifs
 
 ##  Description
 Application MERN (MongoDB, Express, React, Node.js) pour gérer des projets, tâches, membres et commentaires, avec authentification JWT et une intégration IA Gemini pour générer des descriptions.
