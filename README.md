@@ -83,5 +83,5 @@ curl -X POST http://localhost:5000/api/auth/login \
 	-d '{"email":"test@example.com","password":"password123"}'
 ```
 
-## 📄 Rapport
-Voir le document détaillé : rapport.md
+##  Rapport
+Voir le document détaillé .
